@@ -8,7 +8,6 @@
 |WiseRegistryCleaner|注册表清理工具|
 |WizTree|磁盘空间占用分析工具|
 |wrar602scp|Windows RAR 压缩和解压工具|
-|搞机工具箱v9.81|Android 玩机 / 刷机 / 调试的一站式工具箱|
 |ADBAppControl|Android 免Root卸载|
 |platform-tools-latest-windows|adb tool|
 |audacity-win-3.7.7-64bit|audio record tool|
