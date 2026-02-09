@@ -59,6 +59,11 @@
 |Shortcut Maker|制作快捷app|
 </div>
 
+<div style="border: 4px solid #333; padding: 15px; border-radius: 15px;">
 
-
+## youtube破解
+- Revanced Manager
+- microGSettings
+- `https://vanced.to/`
+</div>
 
